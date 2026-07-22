@@ -1,5 +1,3 @@
-# Git Practice Assignment
+## Feature by Siddhi
 
-Name: Siddhi Bholane
-
-This repository is created to practice Git commands.
+Hello from Siddhi.
